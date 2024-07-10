@@ -353,3 +353,7 @@ a{
     background: rgba(13, 19, 33, 0.03);
     margin-top: 80px;
 }
+
+footer a {
+    padding-right: 24px;
+}
